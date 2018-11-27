@@ -1,4 +1,4 @@
-# Game Card
+# Nega Paginator
 
 Vaadin 10 Java integration of https://www.webcomponents.org/element/kennethklee/nega-paginator
 
