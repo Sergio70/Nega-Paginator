@@ -1,2 +1,3 @@
-com\nega\NegaPaginator.class
+com\nega\GridPaginator.class
 com\nega\NegaPaginator$ValueChangeListener.class
+com\nega\NegaPaginator.class
